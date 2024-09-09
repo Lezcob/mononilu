@@ -1,4 +1,4 @@
-**# EXO GIT
+# EXO GIT
 
 ## REUSI?
 
