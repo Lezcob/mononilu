@@ -1,5 +1,5 @@
-**# EXO GIT
+# EXO GIT
 
 ## REUSI?
 
-![t] (.\img\100reussite2.png)
+![YES] (./img/100reussite2.png)
